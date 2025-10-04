@@ -1,4 +1,4 @@
-🇬🇧 English
+🇬🇧: English
 
 Blazor Aspire CRM
 A modern Customer Relationship Management (CRM) web application built with Blazor Web App and orchestrated by .NET Aspire. This project serves as a practical exploration to deepen my expertise in C#, the .NET ecosystem, and modern cloud-native development practices.
@@ -94,7 +94,7 @@ CRM-Blazor-Aspire.Api: An ASP.NET Core API project (business logic, data access)
 This is a personal learning project. Therefore, contributions are not being accepted at this time.
 
 
-🇧🇷 Português (Brasil)
+🇧🇷: Português (Brasil)
 
 Blazor Aspire CRM
 Uma moderna aplicação web de Gerenciamento de Relacionamento com o Cliente (CRM) construída com Blazor Web App e orquestrada pelo .NET Aspire. Este projeto serve como uma exploração prática para aprofundar meu conhecimento em C#, no ecossistema .NET e em práticas modernas de desenvolvimento nativo para a nuvem.
