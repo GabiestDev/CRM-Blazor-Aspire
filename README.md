@@ -1,9 +1,3 @@
-<div align="center">
-<p>
-<strong><a href="#-english">English</a></strong> | <strong><a href="#-português-brasil">Português (Brasil)</a></strong>
-</p>
-</div>
-
 🇬🇧 English
 Blazor Aspire CRM
 A modern Customer Relationship Management (CRM) web application built with Blazor Web App and orchestrated by .NET Aspire. This project serves as a practical exploration to deepen my expertise in C#, the .NET ecosystem, and modern cloud-native development practices.
@@ -98,8 +92,6 @@ CRM-Blazor-Aspire.Api: An ASP.NET Core API project (business logic, data access)
 🤝 Contributing
 This is a personal learning project. Therefore, contributions are not being accepted at this time.
 
-📄 License
-Copyright © 2024 Gabriel GabiestDev. All Rights Reserved.
 
 🇧🇷 Português (Brasil)
 Blazor Aspire CRM
@@ -195,5 +187,3 @@ CRM-Blazor-Aspire.Api: Um projeto de API ASP.NET Core (lógica de negócios, ace
 🤝 Contribuições
 Este é um projeto de aprendizado pessoal. Portanto, não estou aceitando contribuições no momento.
 
-📄 Licença
-Copyright © 2024 Gabriel GabiestDev. Todos os Direitos Reservados.
