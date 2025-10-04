@@ -1,4 +1,4 @@
-#Blazor Aspire CRM
+Blazor Aspire CRM
 A modern Customer Relationship Management (CRM) web application built with Blazor Web App and orchestrated by .NET Aspire. This project serves as a practical exploration to deepen my expertise in C#, the .NET ecosystem, and modern cloud-native development practices.
 
 🚀 Project Goals
