@@ -36,7 +36,7 @@ User Authentication: Secure access to the application.
 🛠️ Technologies Used
 This project is built using a modern .NET technology stack:
 
-Backend & Frontend: .NET 8, C# 12
+Backend & Frontend: .NET 9, C# 13
 
 UI Framework: Blazor Web App (Server-side rendering and Interactive components)
 
@@ -132,7 +132,7 @@ Autenticação de Usuários: Acesso seguro à aplicação.
 🛠️ Tecnologias Utilizadas
 Este projeto foi construído usando uma stack de tecnologia .NET moderna:
 
-Backend & Frontend: .NET 8, C# 12
+Backend & Frontend: .NET 9, C# 13
 
 UI Framework: Blazor Web App
 
