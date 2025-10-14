@@ -52,7 +52,7 @@ Authentication: ASP.NET Core Identity
 Follow these instructions to get the project up and running on your local machine.
 
 Prerequisites
-.NET 8 SDK
+.NET 9 SDK
 
 .NET Aspire Workload
 
@@ -148,7 +148,7 @@ Autenticação: ASP.NET Core Identity
 Siga estas instruções para obter o projeto e executá-lo em sua máquina local.
 
 Pré-requisitos
-.NET 8 SDK
+.NET 9 SDK
 
 Workload do .NET Aspire
 
