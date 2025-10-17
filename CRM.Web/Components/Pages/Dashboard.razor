@@ -1,41 +1,43 @@
 ﻿@page "/"
 
 <PageTitle>Dashboard</PageTitle>
-<div class="header">
+<div class="header d-flex justify-content-between">
     <div class="header-title">
         <h1>Dashboard</h1>
         <p>Welcome to your dashboard</p>
     </div>
-    <div class="view-header-button">
-        <button class="btn btn-primary">View All Leads</button>
-    </div>
-    <div class="add-header-button">
-        <button class="btn btn-primary">Add New Leads</button>
+    <div class="d-flex justify-content-between mb-4 gap">
+        <div class="view-header-button">
+            <button class="btn btn-primary btn-leads">View All Leads</button>
+        </div>
+        <div class="add-header-button">
+            <button class="btn btn-secondary">Add New Leads</button>
+        </div>
     </div>
 </div>
 <div class="body">
     <div class="card-group">
-        <div class="card-total">
+        <div class="card card-total">
             <p class="card-title">Total Leads</p>
-            <p class="card-value">150</p>
+            <p class="card-text">150</p>
             <i class="icon-leads"></i>
             <p class="percent-delta-diff">+30% vs last month</p>
         </div>
-        <div class="card-contacted">
+        <div class="card card-contacted">
             <p class="card-title">Contacted Leads</p>
-            <p class="card-value">90</p>
+            <p class="card-text">90</p>
             <i class="icon-leads"></i>
             <p class="percent-delta-diff">+8% vs last month</p>
         </div>
-        <div class="card-Converted">
+        <div class="card card-converted">
             <p class="card-title">Converted Leads</p>
-            <p class="card-value">29</p>
+            <p class="card-text">29</p>
             <i class="icon-leads"></i>
             <p class="percent-delta-diff">+15% vs last month</p>
         </div>
-        <div class="card-not-interested">
+        <div class="card card-not-interested">
             <p class="card-title">Total Leads</p>
-            <p class="card-value">15</p>
+            <p class="card-text">15</p>
             <i class="icon-leads"></i>
             <p class="percent-delta-diff">-3% vs last month</p>
         </div>

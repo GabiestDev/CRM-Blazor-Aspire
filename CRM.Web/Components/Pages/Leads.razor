@@ -2,18 +2,41 @@
 @rendermode InteractiveServer
 
 <PageTitle>Leads</PageTitle>
-
-<h1>Leads</h1>
-
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<div class="Header">
+    <div class="header-title">
+        <h1>Leads</h1>
+        <p>Manage and track your sales leads</p>
+        <div class="add-header-button">
+            <button class="btn btn-primary">Add New Leads</button>
+        </div>
+    </div>
+</div>
+<div class="body">
+    <div class="filters">
+        <div class="filter-title">
+            <p>Filters</p>
+        </div>
+        <div class="filter-options">
+            <input type="text" placeholder="Search leads..." />
+            <select>
+                <option value="status">Status</option>
+                <option value="contacted">Contacted</option>
+                <option value="converted">Converted</option>
+                <option value="not-interested">Not Interested</option>
+            </select>
+            <select>
+                <option value="source">Source</option>
+                <option value="facebook">Facebook</option>
+                <option value="google">Google</option>
+                <option value="website">Website</option>
+                <option value="event">Event</option>
+                <option value="others">Others</option>
+            </select>
+            <button class="btn btn-secondary">Apply Filters</button>
+        </div>
+    </div>
+</div>
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
 }
